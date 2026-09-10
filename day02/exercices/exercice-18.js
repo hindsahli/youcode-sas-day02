@@ -19,8 +19,6 @@
 // 2. Écris ta solution sous cette ligne.
 // TODO: écris ta solution ici.
 
-'use strict';
-
 let N = 15;
 let etapes = 0;
 while (N > 1) {
